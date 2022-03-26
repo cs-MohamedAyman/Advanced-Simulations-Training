@@ -1,1 +1,1 @@
-# Advanced-Simulations-Training
+# Advanced Simulations Training
